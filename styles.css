@@ -1,0 +1,163 @@
+h1 {
+	font-family: georgia;
+	font-size: 1.8em;
+	color: black;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+h2 {
+	font-family: tahoma;
+	font-size: 1.25em;
+	color: black;
+}
+
+h3 {
+	font-family: tahoma;
+	font-size: 1.1em;
+	color: black;
+}
+
+p {
+	font-family: verdana;
+	font-size: 1em;
+	color: black;
+}
+
+ul {
+	font-family: verdana;
+	font-size: 1em;
+	color: black;
+}
+
+body {
+	background-color: #80cbff;
+	margin: 20px;
+	padding: 20px;
+	line-height: 1.5em;
+}
+
+a:link, a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: dimgray;
+	text-decoration: underline;
+}
+
+a:active {
+	color: lightgray;
+	text-decoration: underline;
+}
+
+a.heading:hover {
+	background-color: #d7c2ff;
+	text-decoration: none;
+}
+
+a.heading:active {
+	background-color: #9e6bff;
+	text-decoration: none;
+}
+
+.pages {
+	font-size: 1.35em;
+	font-family: garamond;
+	list-style: none;
+	padding-left: 0;
+}
+
+a.footer-link:link, a.footer-link:visited {
+	font-family: "Times New Roman";
+	color: blue;
+	font-size: 2;
+}
+
+a.footer-link:hover {
+	color: dimgray;
+	text-decoration: underline;
+}
+
+a.footer-link:active {
+	color: lightgray;
+	text-decoration: underline;
+}
+
+a#newspaper:link, a#newspaper:visited {
+	color: blue;
+	text-decoration: none;
+}
+
+a#newspaper:hover {
+	color: darkblue;
+	text-decoration: underline;
+}
+
+a#newspaper:active {
+	color: indigo;
+	text-decoration: underline;
+}
+
+a#letterboxd:link, a#letterboxd:visited {
+	color: blue;
+	text-decoration: none;
+}
+
+a#letterboxd:hover {
+	color: darkblue;
+	text-decoration: underline;
+}
+
+a#letterboxd:active {
+	color: indigo;
+	text-decoration: underline;
+}
+
+a#street-photography:link, a#street-photography:visited {
+	color: blue;
+	text-decoration: none;
+}
+
+a#street-photography:hover {
+	color: darkblue;
+	text-decoration: underline;
+}
+
+a#street-photography:active {
+	color: indigo;
+	text-decoration: underline;
+}
+
+a#poms:link, a#poms:visited {
+	color: blue;
+	text-decoration: none;
+}
+
+a#poms:hover {
+	color: darkblue;
+	text-decoration: underline;
+}
+
+a#poms:active {
+	color: indigo;
+	text-decoration: underline;
+}
+
+.page-links {
+	float: left;
+	padding: 15px;
+	padding-top: 1px;
+	padding-left: 0;
+}
+
+main {
+	clear: both;
+}
+
+img {
+	border-color: black; 
+	border-style: solid;
+	border-width: 1px;
+}
